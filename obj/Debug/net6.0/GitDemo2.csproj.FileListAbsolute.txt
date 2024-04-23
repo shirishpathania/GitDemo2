@@ -1,0 +1,15 @@
+C:\TestAutomation\GitDemo2\bin\Debug\net6.0\GitDemo2.exe
+C:\TestAutomation\GitDemo2\bin\Debug\net6.0\GitDemo2.deps.json
+C:\TestAutomation\GitDemo2\bin\Debug\net6.0\GitDemo2.runtimeconfig.json
+C:\TestAutomation\GitDemo2\bin\Debug\net6.0\GitDemo2.dll
+C:\TestAutomation\GitDemo2\bin\Debug\net6.0\GitDemo2.pdb
+C:\TestAutomation\GitDemo2\obj\Debug\net6.0\GitDemo2.csproj.AssemblyReference.cache
+C:\TestAutomation\GitDemo2\obj\Debug\net6.0\GitDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\TestAutomation\GitDemo2\obj\Debug\net6.0\GitDemo2.AssemblyInfoInputs.cache
+C:\TestAutomation\GitDemo2\obj\Debug\net6.0\GitDemo2.AssemblyInfo.cs
+C:\TestAutomation\GitDemo2\obj\Debug\net6.0\GitDemo2.csproj.CoreCompileInputs.cache
+C:\TestAutomation\GitDemo2\obj\Debug\net6.0\GitDemo2.dll
+C:\TestAutomation\GitDemo2\obj\Debug\net6.0\refint\GitDemo2.dll
+C:\TestAutomation\GitDemo2\obj\Debug\net6.0\GitDemo2.pdb
+C:\TestAutomation\GitDemo2\obj\Debug\net6.0\GitDemo2.genruntimeconfig.cache
+C:\TestAutomation\GitDemo2\obj\Debug\net6.0\ref\GitDemo2.dll
